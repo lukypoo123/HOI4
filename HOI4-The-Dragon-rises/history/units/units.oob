@@ -6,7 +6,7 @@ if = {
     else = { set_oob = "TAG_1936_legacy" }
 }
 
-devision_template = { 
+division_template = { 
     name = "Longbowmen Regiment"
     regiments = {
         infantry = { x = 0 y = 0 }
@@ -23,5 +23,33 @@ devision_template = {
 
     support = {
         Engineer_Company = { x = 0 y = 0 }
+    }
+}
+
+units = {
+   # division= {
+   #     name "Longbowmen Regiment"
+   #     location = 377 # Cardiff
+   #     division_template = "Longbowmen Regiment"
+   #     start_experience_factor = 0.2
+   #     start_equipment_factor = 0.3
+   # }
+    division= {
+        division_name = {
+            in_name_orderd = yes
+            name_order = 35
+        }
+        location = 377 # Cardiff
+        division_template = "Longbowmen Regiment"
+        officer = {
+            name = WAL_officer_1 #To be added later (DONT FORGET)
+            portraits = {
+                army = {
+                    large = #Currently using rendmoly generated images. Will be changed in future
+                    small = #Currently using rendmoly generated images. Will be changed in future
+                }
+            }
+
+        }
     }
 }
