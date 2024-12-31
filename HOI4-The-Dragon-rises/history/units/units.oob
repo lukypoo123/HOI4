@@ -27,13 +27,13 @@ division_template = {
 }
 
 units = {
-   # division= {
-   #     name "Longbowmen Regiment"
-   #     location = 377 # Cardiff
-   #     division_template = "Longbowmen Regiment"
-   #     start_experience_factor = 0.2
-   #     start_equipment_factor = 0.3
-   # }
+    division= {
+        name "Longbowmen Regiment"
+        location = 377 # Cardiff
+        division_template = "Longbowmen Regiment"
+        start_experience_factor = 0.2
+        start_equipment_factor = 0.3
+    }
     division= {
         division_name = {
             in_name_orderd = yes
@@ -41,6 +41,8 @@ units = {
         }
         location = 377 # Cardiff
         division_template = "Longbowmen Regiment"
+        start_manpower_factor = 0.9
+        start_equipment_factor = 1.0
         officer = {
             name = WAL_officer_1 #To be added later (DONT FORGET)
             portraits = {
