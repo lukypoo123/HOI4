@@ -2,3 +2,4 @@ graphical_culture = commonwealth_gfx
 graphical_culture_2d = commonwealth_2d
 colour = rgb {} #Put RGB code here later
 
+capital = 122
