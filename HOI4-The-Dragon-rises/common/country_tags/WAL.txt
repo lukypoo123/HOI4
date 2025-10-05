@@ -1,1 +1,1 @@
-WAL = "countries/Wales.txt"
+WAL = "countries/WAL.txt"
