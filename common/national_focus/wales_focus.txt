@@ -43,7 +43,6 @@ focus_tree = {
         
         completion_reward = {
             add_political_power = 50
-            country_event = { id = wales_events.100 }
         }
     }
     
@@ -117,16 +116,8 @@ focus_tree = {
         cost = 10
         
         completion_reward = {
-            ENG = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
-            reverse_add_opinion_modifier = {
-                target = ENG
-                modifier = improved_relations
-            }
+            ENG = { add_opinion_modifier = { target = WAL modifier = large_increase } }
+            reverse_add_opinion_modifier = { target = ENG modifier = large_increase }
             unlock_decision_tooltip = WAL_seek_uk_investment
         }
     }
@@ -140,18 +131,8 @@ focus_tree = {
         cost = 10
         
         completion_reward = {
-            USA = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
-            CAN = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
+            USA = { add_opinion_modifier = { target = WAL modifier = large_increase } }
+            CAN = { add_opinion_modifier = { target = WAL modifier = large_increase } }
             add_offsite_building = { type = dockyard level = 1 }
             unlock_decision_tooltip = WAL_atlantic_trade_network
         }
@@ -166,12 +147,7 @@ focus_tree = {
         cost = 10
         
         completion_reward = {
-            FRA = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
+            FRA = { add_opinion_modifier = { target = WAL modifier = large_increase } }
             add_political_power = 50
             if = {
                 limit = {
@@ -312,16 +288,8 @@ focus_tree = {
         
         completion_reward = {
             add_ideas = WAL_welsh_soviet_pact
-            SOV = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
-            reverse_add_opinion_modifier = {
-                target = SOV
-                modifier = improved_relations
-            }
+            SOV = { add_opinion_modifier = { target = WAL modifier = large_increase } }
+            reverse_add_opinion_modifier = { target = SOV modifier = large_increase }
             unlock_decision_tooltip = WAL_soviet_military_cooperation
         }
     }
@@ -540,16 +508,8 @@ focus_tree = {
         
         completion_reward = {
             add_ideas = WAL_pact_with_berlin
-            GER = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
-            reverse_add_opinion_modifier = {
-                target = GER
-                modifier = improved_relations
-            }
+            GER = { add_opinion_modifier = { target = WAL modifier = large_increase } }
+            reverse_add_opinion_modifier = { target = GER modifier = large_increase }
             add_offsite_building = { type = arms_factory level = 2 }
             unlock_decision_tooltip = WAL_german_military_alliance
         }
@@ -681,18 +641,8 @@ focus_tree = {
         
         completion_reward = {
             add_ideas = WAL_the_celtic_crown
-            SCO = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
-            IRE = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
+            SCO = { add_opinion_modifier = { target = WAL modifier = large_increase } }
+            IRE = { add_opinion_modifier = { target = WAL modifier = large_increase } }
             unlock_decision_tooltip = WAL_diplomatic_unity_scotland
             unlock_decision_tooltip = WAL_diplomatic_unity_ireland
         }
@@ -729,16 +679,8 @@ focus_tree = {
         completion_reward = {
             add_ideas = WAL_royal_treaty_france
             add_offsite_building = { type = arms_factory level = 1 }
-            FRA = {
-                add_opinion_modifier = {
-                    target = WAL
-                    modifier = improved_relations
-                }
-            }
-            reverse_add_opinion_modifier = {
-                target = FRA
-                modifier = improved_relations
-            }
+            FRA = { add_opinion_modifier = { target = WAL modifier = large_increase } }
+            reverse_add_opinion_modifier = { target = FRA modifier = large_increase }
             unlock_decision_tooltip = WAL_french_technological_exchange
         }
     }
@@ -966,10 +908,13 @@ focus_tree = {
                 name = fortification_bonus
                 bonus = 1.0
                 uses = 2
-                technology = {
-                    tech_engineers
-                    tech_mountaineers
-                }
+                technology = tech_engineers
+            }
+            add_tech_bonus = {
+                name = mountain_bonus
+                bonus = 1.0
+                uses = 1
+                technology = tech_mountaineers
             }
             army_experience = 25
         }
@@ -1103,9 +1048,7 @@ focus_tree = {
         completion_reward = {
             add_offsite_building = { type = industrial_complex level = 4 }
             add_offsite_building = { type = arms_factory level = 4 }
-            add_ideas = {
-                WAL_self_sufficient_wales
-            }
+            add_ideas = WAL_self_sufficient_wales
             swap_ideas = {
                 remove_idea = WAL_coal_mining_tradition
                 add_idea = WAL_industrial_powerhouse
@@ -1136,10 +1079,7 @@ focus_tree = {
                 name = radar_bonus
                 bonus = 1.0
                 uses = 1
-                technology = {
-                    radio_detection
-                    decimetric_radar
-                }
+                technology = radio_detection
             }
         }
     }

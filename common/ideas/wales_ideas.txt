@@ -42,6 +42,17 @@ ideas = {
             }
         }
         
+        
+        WAL_industrial_powerhouse = {
+            allowed = { original_tag = WAL }
+            picture = generic_production_bonus
+            modifier = {
+                production_factory_max_efficiency_factor = 0.15
+                industrial_capacity_factory = 0.10
+                line_change_production_efficiency_factor = 0.10
+            }
+        }
+
         # ================================
         # DEMOCRATIC PATH IDEAS
         # ================================
@@ -133,7 +144,7 @@ ideas = {
                 production_speed_dockyard_factor = 0.15
                 industrial_capacity_dockyard = 0.15
                 convoy_escort_efficiency = 0.10
-                naval_trade_routes_opinion_factor = 0.25
+                trade_opinion_factor = 0.25
             }
         }
         
@@ -208,7 +219,6 @@ ideas = {
                 stability_factor = -0.05
                 political_power_gain = 0.75
                 communism_drift = 0.10
-                subversive_activites_upkeep = -0.25
             }
         }
         
@@ -301,8 +311,6 @@ ideas = {
             modifier = {
                 send_volunteer_divisions_required = -0.50
                 send_volunteers_tension = -0.50
-                subversive_activites_upkeep = -0.30
-                subversive_activites_cost = -0.30
             }
         }
         

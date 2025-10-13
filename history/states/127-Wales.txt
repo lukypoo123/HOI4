@@ -1,0 +1,29 @@
+state = {
+    id = 127
+    name = "STATE_127"
+    
+    history = {
+        owner = WAL
+        add_core_of = WAL
+        victory_points = {
+            9379 10  # Cardiff
+        }
+        buildings = {
+            infrastructure = 6
+            industrial_complex = 3
+            arms_factory = 2
+            air_base = 3
+            9379 = {
+                naval_base = 5
+            }
+        }
+    }
+    
+    provinces = {
+        3273 9379 11374
+    }
+    
+    manpower = 2500000
+    buildings_max_level_factor = 1.000
+    state_category = town
+}
