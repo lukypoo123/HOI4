@@ -1,0 +1,53 @@
+capital = 122
+oob = "WAL_1936"
+set_research_slots = 3
+set_convoys = 20
+
+set_technology = {
+    infantry_weapons = 1
+    tech_trucks = 1
+    fuel_silos = 1
+}
+
+set_politics = {
+    ruling_party = democratic
+    last_election = "1936.1.1"
+    election_frequency = 48
+    elections_allowed = yes
+}
+
+set_popularities = {
+    democratic = 93
+    fascism = 3
+    communism = 4
+}
+
+add_ideas = {
+    WAL_independent_spirit
+    WAL_coal_mining_tradition
+}
+
+# Use create_country_leader instead of recruit_character
+create_country_leader = {
+    name = "Alun Meredydd"
+    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+    expire = "1965.1.1"
+    ideology = liberalism
+    traits = {}
+}
+
+create_country_leader = {
+    name = "Cynan Coch"
+    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+    expire = "1965.1.1"
+    ideology = fascism_ideology
+    traits = {}
+}
+
+create_country_leader = {
+    name = "Emrys Cadarn"
+    picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+    expire = "1965.1.1"
+    ideology = marxism
+    traits = {}
+}
