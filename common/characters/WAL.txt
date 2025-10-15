@@ -3,7 +3,7 @@ characters = {
     # COUNTRY LEADERS
     # ===================================
     
-    # DEMOCRATIC LEADER - "A United Cymru"
+    # DEMOCRATIC LEADER
     WAL_alun_meredydd = {
         name = "Alun Meredydd"
         portraits = {
@@ -22,7 +22,7 @@ characters = {
         }
     }
     
-    # FASCIST LEADER - "The Red Dragon Empire"
+    # FASCIST LEADER
     WAL_cynan_coch = {
         name = "Cynan Coch"
         portraits = {
@@ -41,7 +41,7 @@ characters = {
         }
     }
     
-    # COMMUNIST LEADER - "The People's Republic of Cymru"
+    # COMMUNIST LEADER
     WAL_emrys_cadarn = {
         name = "Emrys Cadarn"
         portraits = {
@@ -60,9 +60,9 @@ characters = {
         }
     }
     
-    # MONARCHIST LEADER - "The Throne of Owain Glyndŵr"
+    # MONARCHIST LEADER
     WAL_king_owain = {
-        name = "King Owain IV"  # Descendant of Owain Glyndŵr
+        name = "King Owain IV"
         portraits = {
             civilian = {
                 large = "gfx/leaders/WAL/portrait_king_owain.dds"
@@ -124,7 +124,7 @@ characters = {
                 }
             }
             traits = {
-                socialist_novelist  # Worker-focused trait
+                socialist_novelist
             }
         }
     }
@@ -294,7 +294,7 @@ characters = {
     }
     
     WAL_silent_workhorse = {
-        name = "silent_workhorse"
+        name = "Geraint Hughes"
         portraits = {
             civilian = {
                 small = "GFX_idea_generic_political_advisor_europe_10"
@@ -313,10 +313,10 @@ characters = {
     }
 
     WAL_smooth_talking_charmer = {
-        name = "smooth_talking_charmer"
+        name = "Aled Pritchard"
         portraits = {
             civilian = {
-                small = "GFX_idea_generic_political_advisor_europe_10"
+                small = "GFX_idea_generic_political_advisor_europe_11"
             }
         }
         advisor = {
@@ -381,21 +381,21 @@ characters = {
         }
     }
 
-    WAL_army_chief_organizational_2  = {
-        name = "General Gweon Lews"
+    WAL_army_chief_organizational_2 = {
+        name = "General Gweon Lewis"
         portraits = {
             army = {
-                small = "GFX_idea_generic_army_europe_2"
+                small = "GFX_idea_generic_army_europe_3"
             }
         }
         advisor = {
             slot = army_chief
-            idea_token = WAL_army_chief_organizational_2 
+            idea_token = WAL_army_chief_organizational_2
             allowed = {
                 original_tag = WAL
             }
             traits = {
-                army_chief_organizational_2 
+                army_chief_organizational_2
             }
             cost = 100
             ai_will_do = {
@@ -505,10 +505,10 @@ characters = {
     }
 
     WAL_air_chief_night_operations_1 = {
-        name = "Air Marshal Auther Jones"
+        name = "Air Marshal Arthur Jones"
         portraits = {
             army = {
-                small = "GFX_idea_generic_air_europe_2"
+                small = "GFX_idea_generic_air_europe_3"
             }
         }
         advisor = {
@@ -535,7 +535,7 @@ characters = {
         name = "General Llywelyn Jones"
         portraits = {
             army = {
-                small = "GFX_idea_generic_army_europe_3"
+                small = "GFX_idea_generic_army_europe_4"
             }
         }
         advisor = {
@@ -556,10 +556,10 @@ characters = {
     }
 
     WAL_army_commando_2 = {
-        name = "General Llywelyn Powel"
+        name = "General Llywelyn Powell"
         portraits = {
             army = {
-                small = "GFX_idea_generic_army_europe_3"
+                small = "GFX_idea_generic_army_europe_5"
             }
         }
         advisor = {
@@ -579,12 +579,11 @@ characters = {
         }
     }
     
-    
     WAL_army_artillery_3 = {
         name = "General Gruffydd Price"
         portraits = {
             army = {
-                small = "GFX_idea_generic_army_europe_4"
+                small = "GFX_idea_generic_army_europe_6"
             }
         }
         advisor = {
@@ -608,7 +607,7 @@ characters = {
         name = "Air Commodore Hywel Roberts"
         portraits = {
             army = {
-                small = "GFX_idea_generic_air_europe_3"
+                small = "GFX_idea_generic_air_europe_4"
             }
         }
         advisor = {
@@ -652,6 +651,54 @@ characters = {
         }
     }
     
+    WAL_navy_submarine_3 = {
+        name = "Admiral Cai Edwards"
+        portraits = {
+            army = {
+                small = "GFX_idea_generic_navy_europe_4"
+            }
+        }
+        advisor = {
+            slot = high_command
+            idea_token = WAL_navy_submarine_3
+            ledger = navy
+            allowed = {
+                original_tag = WAL
+            }
+            traits = {
+                navy_submarine_3
+            }
+            cost = 150
+            ai_will_do = {
+                factor = 1.000
+            }
+        }
+    }
+    
+    WAL_air_close_air_support_2 = {
+        name = "Air Commodore Bryn Matthews"
+        portraits = {
+            army = {
+                small = "GFX_idea_generic_air_europe_5"
+            }
+        }
+        advisor = {
+            slot = high_command
+            idea_token = WAL_air_close_air_support_2
+            ledger = air
+            allowed = {
+                original_tag = WAL
+            }
+            traits = {
+                air_close_air_support_2
+            }
+            cost = 100
+            ai_will_do = {
+                factor = 1.000
+            }
+        }
+    }
+    
     # ===================================
     # MILITARY THEORISTS
     # ===================================
@@ -660,12 +707,12 @@ characters = {
         name = "Professor Gareth Wyn"
         portraits = {
             army = {
-                small = "GFX_idea_generic_army_europe_5"
+                small = "GFX_idea_generic_army_europe_7"
             }
         }
         advisor = {
             slot = theorist
-            idea_token = WAL_assault_ponderous
+            idea_token = WAL_military_theorist
             ledger = army
             allowed = {
                 original_tag = WAL
@@ -681,7 +728,7 @@ characters = {
         name = "Professor Meirion Lloyd"
         portraits = {
             army = {
-                small = "GFX_idea_generic_air_europe_4"
+                small = "GFX_idea_generic_air_europe_6"
             }
         }
         advisor = {
@@ -699,10 +746,10 @@ characters = {
     }
 
     WAL_artillery_technician = {
-        name = "Professor Meirion Lloyd"
+        name = "Professor Dewi Vaughan"
         portraits = {
             army = {
-                small = "GFX_idea_generic_air_europe_4"
+                small = "GFX_idea_generic_army_europe_8"
             }
         }
         advisor = {
@@ -718,5 +765,4 @@ characters = {
             cost = 100
         }
     }
-
 }
