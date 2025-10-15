@@ -1,5 +1,4 @@
 ﻿l_english:
-
  # ================================
  # COUNTRY NAMES
  # ================================
@@ -402,3 +401,16 @@
  wales_events.10.t:0 "Communist Revolution in Britain"
  wales_events.10.d:0 "Welsh agitators have succeeded in sparking a communist revolution in Britain!"
  wales_events.10.a:0 "The revolution succeeds!"
+
+ # ================================
+ # VICTORY POINTS
+ # ================================
+ VICTORY_POINTS_377:0 "Cardiff"
+ VICTORY_POINTS_407:0 "Wrexham"
+ VICTORY_POINTS_9364:0 "Swansea"
+ 
+ # ================================
+ # STATES
+ # ================================
+ STATE_122:0 "Wales"
+ STATE_122_DEF:0 "Wales"
