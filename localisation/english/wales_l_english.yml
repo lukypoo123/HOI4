@@ -140,6 +140,53 @@
  
  WAL_britannias_true_heir:0 "Britannia's True Heir"
  WAL_britannias_true_heir_desc:0 "The true heir to the British throne sits in Cymru, not London!"
+
+ # Rejoin the union path
+  WAL_negotiate_reunion:0 "Negotiate Reunion with Britain"
+ WAL_negotiate_reunion_desc:0 "Perhaps independence was premature. Britain offers security, resources, and military might that Wales cannot match alone. We should explore reunification."
+ 
+ WAL_economic_integration:0 "Economic Integration"
+ WAL_economic_integration_desc:0 "By integrating our economy with Britain's, we gain access to imperial trade networks and industrial resources."
+ 
+ WAL_military_cooperation:0 "Military Cooperation"
+ WAL_military_cooperation_desc:0 "British military advisors and equipment will modernize our armed forces and provide experienced leadership."
+ 
+ WAL_accept_dominion_status:0 "Accept Dominion Status"
+ WAL_accept_dominion_status_desc:0 "Wales will become a self-governing dominion within the British Empire. We sacrifice independence for protection and prosperity."
+ 
+ WAL_royal_navy_protection:0 "Royal Navy Protection"
+ WAL_royal_navy_protection_desc:0 "The Royal Navy's might shields our coasts. No enemy can threaten Wales while Britain's fleet patrols our waters."
+ 
+ WAL_imperial_resources:0 "Access to Imperial Resources"
+ WAL_imperial_resources_desc:0 "The vast resources of the British Empire flow into Wales - oil from the Middle East, rubber from Malaya, steel from Canada."
+ 
+ WAL_commonwealth_arsenal:0 "Commonwealth Arsenal"
+ WAL_commonwealth_arsenal_desc:0 "British factories arm Welsh soldiers with modern equipment. We gain access to the Empire's industrial might."
+ 
+ WAL_united_we_stand:0 "United We Stand"
+ WAL_united_we_stand_desc:0 "Wales and Britain stand together once more. Though we lack full independence, we are protected, prosperous, and part of the greatest empire on Earth."
+ 
+ # UK Reunion Ideas
+ WAL_economic_integration:0 "Economic Integration"
+ WAL_economic_integration_desc:0 "Welsh economy is integrated with British imperial trade networks."
+ 
+ WAL_military_cooperation:0 "Military Cooperation with Britain"
+ WAL_military_cooperation_desc:0 "British military advisors train and equip Welsh forces."
+ 
+ WAL_dominion_status:0 "British Dominion"
+ WAL_dominion_status_desc:0 "Wales is a self-governing dominion within the British Empire."
+ 
+ WAL_royal_navy_protection:0 "Royal Navy Protection"
+ WAL_royal_navy_protection_desc:0 "The Royal Navy defends Welsh waters and shipping lanes."
+ 
+ WAL_imperial_resources:0 "Imperial Resource Access"
+ WAL_imperial_resources_desc:0 "Wales has access to resources from across the British Empire."
+ 
+ WAL_commonwealth_arsenal:0 "Commonwealth Arsenal"
+ WAL_commonwealth_arsenal_desc:0 "British factories supply Welsh armed forces with equipment."
+ 
+ WAL_united_we_stand:0 "United We Stand"
+ WAL_united_we_stand_desc:0 "Wales and Britain stand united against all threats."
  
  # ================================
  # NATIONAL SPIRITS/IDEAS

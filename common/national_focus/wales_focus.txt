@@ -498,7 +498,7 @@ focus_tree = {
         id = WAL_pact_with_berlin
         icon = GFX_goal_generic_allies_build_infantry
         prerequisite = { focus = WAL_revive_the_druidic_order }
-        x = 17
+        x = 18
         y = 4
         cost = 10
         
@@ -737,6 +737,213 @@ focus_tree = {
     }
     
     # ================================
+    # UK REUNION PATH
+    # ================================
+    
+    focus = {
+        id = WAL_negotiate_reunion
+        icon = GFX_goal_generic_allies_build_infantry
+        prerequisite = { focus = WAL_choose_our_path }
+        mutually_exclusive = { focus = WAL_a_democratic_mandate }
+        mutually_exclusive = { focus = WAL_red_dragon_rising }
+        mutually_exclusive = { focus = WAL_rise_of_the_dragon }
+        mutually_exclusive = { focus = WAL_return_of_the_true_king }
+        x = -3
+        y = 2
+        cost = 10
+        
+        available = {
+            NOT = { has_war_with = ENG }
+            ENG = { exists = yes }
+        }
+        
+        completion_reward = {
+            add_political_power = 50
+            ENG = { 
+                country_event = { id = wales_reunion.1 days = 3 }
+                add_opinion_modifier = { target = WAL modifier = large_increase }
+            }
+            reverse_add_opinion_modifier = { target = ENG modifier = large_increase }
+        }
+    }
+    
+    focus = {
+        id = WAL_economic_integration
+        icon = GFX_goal_generic_construct_civ_factory
+        prerequisite = { focus = WAL_negotiate_reunion }
+        x = -4
+        y = 3
+        cost = 10
+        
+        completion_reward = {
+            add_ideas = WAL_economic_integration
+            add_offsite_building = { type = industrial_complex level = 3 }
+            add_political_power = -50
+            ENG = { 
+                add_opinion_modifier = { target = WAL modifier = large_increase }
+            }
+        }
+    }
+    
+    focus = {
+        id = WAL_military_cooperation
+        icon = GFX_goal_generic_allies_build_infantry
+        prerequisite = { focus = WAL_negotiate_reunion }
+        x = -2
+        y = 3
+        cost = 10
+        
+        completion_reward = {
+            add_ideas = WAL_military_cooperation
+            add_equipment_to_stockpile = {
+                type = infantry_equipment
+                amount = 1000
+                producer = ENG
+            }
+            army_experience = 25
+            ENG = { 
+                give_military_access = WAL
+            }
+            give_military_access = ENG
+        }
+    }
+    
+    focus = {
+        id = WAL_accept_dominion_status
+        icon = GFX_goal_generic_political_pressure
+        prerequisite = { focus = WAL_economic_integration }
+        prerequisite = { focus = WAL_military_cooperation }
+        x = -3
+        y = 4
+        cost = 10
+        
+        available = {
+            ENG = { 
+                exists = yes
+                NOT = { has_war_with = WAL }
+            }
+        }
+        
+        completion_reward = {
+            add_ideas = WAL_dominion_status
+            ENG = { 
+                puppet = WAL
+                if = {
+                    limit = { has_dlc = "Together for Victory" }
+                    set_autonomy = {
+                        target = WAL
+                        autonomy_state = autonomy_dominion
+                    }
+                }
+            }
+            add_stability = -0.10
+            add_political_power = -100
+            add_war_support = -0.05
+        }
+    }
+    
+    focus = {
+        id = WAL_royal_navy_protection
+        icon = GFX_goal_generic_navy_cruiser
+        prerequisite = { focus = WAL_accept_dominion_status }
+        x = 05
+        y = 5
+        cost = 10
+        
+        completion_reward = {
+            add_ideas = WAL_royal_navy_protection
+            navy_experience = 25
+            add_equipment_to_stockpile = {
+                type = convoy
+                amount = 25
+                producer = ENG
+            }
+            if = {
+                limit = { ENG = { is_in_faction = yes } }
+                ENG = { add_to_faction = WAL }
+            }
+        }
+    }
+    
+    focus = {
+        id = WAL_imperial_resources
+        icon = GFX_goal_generic_production2
+        prerequisite = { focus = WAL_accept_dominion_status }
+        x = -3
+        y = 5
+        cost = 10
+        
+        completion_reward = {
+            add_ideas = WAL_imperial_resources
+            every_owned_state = {
+                limit = { is_core_of = WAL }
+                add_resource = {
+                    type = steel
+                    amount = 20
+                }
+                add_resource = {
+                    type = oil
+                    amount = 15
+                }
+                add_resource = {
+                    type = aluminium
+                    amount = 10
+                }
+            }
+            add_offsite_building = { type = industrial_complex level = 2 }
+        }
+    }
+    
+    focus = {
+        id = WAL_commonwealth_arsenal
+        icon = GFX_goal_generic_construct_mil_factory
+        prerequisite = { focus = WAL_accept_dominion_status }
+        x = -1
+        y = 5
+        cost = 10
+        
+        completion_reward = {
+            add_ideas = WAL_commonwealth_arsenal
+            add_offsite_building = { type = arms_factory level = 4 }
+            add_equipment_to_stockpile = {
+                type = infantry_equipment
+                amount = 2000
+                producer = ENG
+            }
+            add_equipment_to_stockpile = {
+                type = support_equipment
+                amount = 500
+                producer = ENG
+            }
+        }
+    }
+    
+    focus = {
+        id = WAL_united_we_stand
+        icon = GFX_goal_generic_major_alliance
+        prerequisite = { focus = WAL_royal_navy_protection }
+        prerequisite = { focus = WAL_imperial_resources }
+        prerequisite = { focus = WAL_commonwealth_arsenal }
+        x = -3
+        y = 6
+        cost = 10
+        
+        completion_reward = {
+            add_ideas = WAL_united_we_stand
+            add_stability = 0.10
+            add_war_support = 0.10
+            add_political_power = 100
+            add_offsite_building = { type = industrial_complex level = 3 }
+            add_offsite_building = { type = arms_factory level = 3 }
+            add_offsite_building = { type = dockyard level = 2 }
+            add_autonomy_score = {
+                value = 100
+            }
+        }
+    }
+
+
+    # ================================
     # INDUSTRIAL & FORTRESS BRANCH
     # (Available to all paths)
     # ================================
@@ -871,7 +1078,7 @@ focus_tree = {
         icon = GFX_goal_generic_construction2
         prerequisite = { focus = WAL_expand_military_industry }
         prerequisite = { focus = WAL_modernize_infrastructure }
-        x = 28
+        x = 29
         y = 3
         cost = 10
         
