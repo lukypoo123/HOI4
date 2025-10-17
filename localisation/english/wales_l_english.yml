@@ -14,8 +14,8 @@
  WAL_communism_DEF:0 "the People's Republic of Cymru"
  WAL_communism_ADJ:0 "Welsh"
  
- WAL_fascism:0 "Welsh Empire"
- WAL_fascism_DEF:0 "the Welsh Empire"
+ WAL_fascism:0 "The Red Empire"
+ WAL_fascism_DEF:0 "The Red Empire"
  WAL_fascism_ADJ:0 "Welsh"
  
  # Cosmetic Tags
@@ -36,110 +36,110 @@
  
  # Common/Starting Focuses
  WAL_the_dragon_rises:0 "A New Dawn for Cymru"
- WAL_the_dragon_rises_desc:0 "After centuries of struggle, the proud country of Wales has achieved independence and now must chart its own course. The Red Dragon flies proudly once more."
+ WAL_the_dragon_rises_desc:0 "The chains of the past have been broken, and the spirit of Cymru burns brighter than ever. From the valleys to the coasts, a nation long silenced now roars its defiance to the world. The Red Dragon has awoken, its wings unfurled in triumph — a symbol of unity, strength, and renewal. This is our dawn — the dawn of a free Wales."
  
  WAL_choose_our_path:0 "Choose Our Path"
- WAL_choose_our_path_desc:0 "Wales stands at a crossroads. We must decide the future of our nation."
+ WAL_choose_our_path_desc:0 "Independence has brought both pride and peril. Across Cymru, old loyalties and new ideals clash in the streets and in the hearts of its people. The question now looms over every village and valley: what kind of nation will Wales become? The decision cannot be delayed — our destiny awaits, and the world is watching as we choose our path."
  
  # Democratic Path
  WAL_a_democratic_mandate:0 "A Democratic Mandate"
- WAL_a_democratic_mandate_desc:0 "England has shown they cannot handle the pressure of keeping the light of democracy shining. We shall establish Wales as a beacon of democracy in the British Isles and europe."
+ WAL_a_democratic_mandate_desc:0 "England’s experiment with democracy has withered beneath the weight of its own arrogance and decline. But in Wales, the dream still burns bright. Here, a new nation dares to believe in the strength of the people and the promise of freedom. From Cardiff’s halls to the valleys below, the Welsh voice will speak for democracy — clear, proud, and unwavering — a new light in a darkening continent."
  
  WAL_welsh_national_assembly:0 "Welsh National Assembly"
- WAL_welsh_national_assembly_desc:0 "A proper parliament will give voice to all Welsh citizens and strengthen our democratic institutions."
+ WAL_welsh_national_assembly_desc:0 "The time has come to establish a true Welsh National Assembly — a parliament by and for the people of Cymru. From its chambers will emerge the laws, leaders, and ideals that define our young democracy. By giving every citizen a voice in shaping our destiny, we will lay the foundations of a stable, prosperous, and enduring Welsh state."
  
  WAL_the_trade_union_pact:0 "The Trade Union Pact"
- WAL_the_trade_union_pact_desc:0 "Welsh workers must be protected and empowered through strong union representation."
+ WAL_the_trade_union_pact_desc:0 "The strength of our democracy lies not in the halls of power, but in the hands of its people. By uniting the trade unions and the parliament, we will create a Wales where every citizen — from the miners of the valleys to the sailors of the coast — has a voice. This pact will bind our nation together in fairness, solidarity, and shared purpose."
  
  WAL_allies_in_london:0 "Allies in London"
- WAL_allies_in_london_desc:0 "Despite our independence, maintaining good relations with Britain serves our interests."
+ WAL_allies_in_london_desc:0 "Old wounds take time to heal, yet the storms gathering across Europe leave little room for grudges. In London, potential allies remain — leaders who see the wisdom of unity against greater foes. By renewing ties with Britain, Wales can secure a friend in diplomacy and a partner in defense, proving that independence and cooperation can coexist beneath the shadow of a dangerous world."
  
  WAL_atlantic_diplomacy:0 "Atlantic Diplomacy"
- WAL_atlantic_diplomacy_desc:0 "We must reach across the ocean to forge bonds with the democracies of America and Canada."
+ WAL_atlantic_diplomacy_desc:0 "For centuries, Welsh sailors have braved the Atlantic’s roaring tides. Now, our nation must do the same in diplomacy. Across the waves lie powerful allies who share our democratic spirit. If we can earn their friendship and trust, the young Welsh state may yet find safe harbor amidst the storm of global politics.."
  
  WAL_cymru_and_europe:0 "Cymru and Europe"
- WAL_cymru_and_europe_desc:0 "Wales should play an active role in European affairs and potentially join the Allies."
+ WAL_cymru_and_europe_desc:0 "As a free and democratic nation, Wales cannot stand idle while Europe’s future hangs in the balance. To preserve peace and uphold the principles we cherish, we must take our place among the family of nations. By aligning ourselves with the democratic powers of Europe — and perhaps joining the Allies — Cymru can ensure that its voice is heard and its freedom protected."
  
  WAL_homegrown_industry:0 "Homegrown Industry"
- WAL_homegrown_industry_desc:0 "Welsh industry must be developed through domestic investment and innovation."
+ WAL_homegrown_industry_desc:0 "The smoke of the old empire’s factories may have faded, but the spirit of Welsh craftsmanship endures. From the steelworks of Port Talbot to the forges of the valleys, a new industrial revival is beginning. By fostering homegrown enterprise and innovation, we can transform Cymru into a nation that thrives not through dependence, but through its own skill and ambition."
  
  WAL_defend_the_west:0 "Defend the West"
- WAL_defend_the_west_desc:0 "We must fortify our coastline against potential invasion from across the Irish Sea."
+ WAL_defend_the_west_desc:0 "The safety of our nation — and of the British Isles as a whole — depends on vigilance along our western shores. We must strengthen our coastal defenses, expand our naval infrastructure, and prepare for any threat that may arise from the turbulent seas beyond. By fortifying the west, Wales will stand as a guardian of the Isles against whatever dangers the future may bring."
  
  # Communist Path
  WAL_red_dragon_rising:0 "Red Dragon Rising"
- WAL_red_dragon_rising_desc:0 "The time has come to establish a socialist republic in Wales!"
+ WAL_red_dragon_rising_desc:0 "For generations, the workers of Wales have been exploited and silenced. Now, their voices thunder across the valleys in unison. The old order crumbles as the Red Dragon unfurls its crimson wings, heralding the birth of a new Wales — a nation built on equality, unity, and the unbreakable spirit of its people."
  
  WAL_workers_councils:0 "Workers' Councils"
- WAL_workers_councils_desc:0 "All major industries must be brought under the control of the workers."
+ WAL_workers_councils_desc:0 "The lifeblood of Wales flows through its workers — the miners, the steelmen, the factory hands who built this nation with sweat and struggle. No longer will they answer to absentee owners or foreign profiteers. Every factory, every dock, every mine shall belong to those who labor within them. Through the creation of Workers’ Councils, industry will be guided by the will of the people, not the greed of the few. From now on, Cymru’s wealth will serve its people — not the other way around."
  
  WAL_welsh_soviet_pact:0 "Welsh-Soviet Pact"
- WAL_welsh_soviet_pact_desc:0 "The Soviet Union will be our ally in the struggle against capitalism."
+ WAL_welsh_soviet_pact_desc:0 "From the valleys of Cymru to the steppes of Russia, the voice of the worker cries out in unison! The capitalist empires tremble as the red banners of Wales and the Soviet Union rise together in defiance. This pact is more than an alliance — it is a declaration of unity among the free peoples of the world. Together, we shall strike the chains from humanity and forge a new order, where labor rules supreme and the oppressors are no more!"
  
  WAL_the_miners_revolution:0 "The Miners' Revolution"
- WAL_the_miners_revolution_desc:0 "The coal miners of Wales have always been the vanguard of revolutionary action."
+ WAL_the_miners_revolution_desc:0 "From the depths of the coal pits and slate quarries, the heartbeat of the Welsh revolution thunders. For generations, miners have endured the darkness, their sweat and sacrifice fueling empires that gave them nothing in return. Now, they rise as the vanguard of the socialist cause — disciplined, united, and unbreakable. The mines that once chained them now forge their liberation. The Red Dragon roars with the voice of the miners, and the earth itself trembles with revolution."
  
  WAL_break_chains_of_capital:0 "Break the Chains of Capital"
- WAL_break_chains_of_capital_desc:0 "All private enterprise must be abolished and brought under state control."
+ WAL_break_chains_of_capital_desc:0 "Tear down the mansions! Empty the boardrooms! The age of the capitalist oppressor is over! The people of Wales will no longer bleed for the greed of the few. Every factory, every farm, every forge shall be seized in the name of the revolution and administered by the people’s state. From this day forward, Cymru belongs to its workers — the chains of capital lie shattered beneath the Red Dragon’s claws!"
  
  WAL_export_the_revolution:0 "Export the Revolution"
- WAL_export_the_revolution_desc:0 "We must spread socialist revolution to Scotland, Ireland, and beyond!"
+ WAL_export_the_revolution_desc:0 "The Red Dragon will not be content with freedom for Cymru alone. The chains that bind workers across these isles and beyond must be smashed — and Wales will carry the torch of liberation into Scotland, Ireland, and every land that yearns for emancipation! We shall aid uprisings, inspire the comrades, and fan the flames of revolution until the old empires crumble. From Cardiff to Cork and Glasgow to Limerick, the workers will rise — and Wales will stand at their side."
  
  WAL_a_welsh_internationale:0 "A Welsh Internationale"
- WAL_a_welsh_internationale_desc:0 "Wales shall lead a new international communist movement."
+ WAL_a_welsh_internationale_desc:0 "To lead an Internationale is to shape thought as well as arms. Welsh theorists, poets, and organizers will craft a living doctrine that adapts Marxist principles to the particular struggles of smaller nations and oppressed peoples. The Welsh Internationale will offer not just weapons and money, but a rallying culture and a doctrine that proves socialism can be forged outside the great powers."
  
  WAL_a_peoples_army:0 "A People's Army"
  WAL_a_peoples_army_desc:0 "Every worker must be ready to defend the revolution!"
  
  # Fascist Path
  WAL_rise_of_the_dragon:0 "The Rise of the Dragon"
- WAL_rise_of_the_dragon_desc:0 "Wales shall be reborn as a mighty empire under strong leadership!"
+ WAL_rise_of_the_dragon_desc:0 "The old world has failed. Democracy falters, socialism divides, and foreign influence poisons our soil. Only through discipline and strong leadership can Wales rise above the chaos. Our people long for stability, pride, and greatness — and we will give it to them. Under the Dragon’s shadow, a new empire will rise — forged by will, fire, and the unbreakable strength of Cymru."
  
  WAL_purging_british_influence:0 "Purging British Influence"
- WAL_purging_british_influence_desc:0 "All remnants of British control must be ruthlessly eliminated."
+ WAL_purging_british_influence_desc:0 "For centuries, British rule sought not only to govern Wales but to erase it — our language silenced, our people shamed, our children made to wear the cursed Welsh Knot for speaking their mother tongue. No more. Those days of humiliation will be avenged through decisive reform and renewal. British officials will be removed from our institutions, their laws undone, their symbols erased. The tongue once punished shall now command, and the Red Dragon shall never bow again to the yoke of foreign dominion."
  
  WAL_cymru_for_the_cymry:0 "Cymru for the Cymry"
- WAL_cymru_for_the_cymry_desc:0 "Wales belongs to the Welsh people alone!"
+ WAL_cymru_for_the_cymry_desc:0 "The time has come to place Cymru above all. The nation must stand united — one people, one purpose, one destiny. Every citizen will be called to serve the rebirth of the Welsh state; loyalty, discipline, and devotion will be the virtues that bind us together. The Dragon demands strength, and through unity of will, Wales shall become unbreakable."
  
  WAL_revive_the_druidic_order:0 "Revive the Druidic Order"
- WAL_revive_the_druidic_order_desc:0 "Ancient Welsh traditions shall be restored to strengthen our national spirit."
+ WAL_revive_the_druidic_order_desc:0 "The roots of Wales run deep, older than the crown, older than the church, older than empire itself. The wisdom of the druids — long suppressed by foreign powers — will be restored as the foundation of our new national faith. Ceremonies, symbols, and ancient rites shall remind every citizen that our strength is not just of flesh and steel, but of spirit and soil. Cymru’s rebirth will be both political and sacred."
  
  WAL_march_on_england:0 "March on England"
- WAL_march_on_england_desc:0 "The time has come to reclaim what is rightfully ours from the English!"
+ WAL_march_on_england_desc:0 "For centuries foreign crowns have arbitrarily redrawn the map of our homeland, cutting Wales from lands that were once ours by history and blood. Now we will press our lawful claim. Through careful research, diplomatic pressure, and historic petitions presented on the international stage, we will demand the return of territories long held under foreign administration. Cymru seeks what is owed by right—not by the sword, but by law, memory, and the undeniable weight of history."
  
  WAL_pact_with_berlin:0 "A Pact with Berlin"
- WAL_pact_with_berlin_desc:0 "Germany shares our vision of a new European order."
+ WAL_pact_with_berlin_desc:0 "The great powers of the continent are shifting, and only those with the courage to act will shape the new Europe. Germany has extended its hand, offering us a place within a new continental order built on strength, unity, and destiny. By forging this pact, we align ourselves with a rising power that understands our vision — an unyielding Europe, forged in discipline and purpose. Cymru shall stand beside Berlin as a loyal partner in the forging of a new age.."
  
  WAL_dominance_of_celtic_isles:0 "Dominance of the Celtic Isles"
- WAL_dominance_of_celtic_isles_desc:0 "Scotland and Ireland must be brought under Welsh hegemony."
+ WAL_dominance_of_celtic_isles_desc:0 "Wales will no longer whisper its demands — we will make them thunder. Mobilize the legions, parade our banners on the coast, and issue our demands with the force of a nation prepared for anything. Let London see that a people united and armed is not to be trifled with."
  
  WAL_the_welsh_war_machine:0 "The Welsh War Machine"
- WAL_the_welsh_war_machine_desc:0 "Total mobilization and militarization of Welsh society!"
+ WAL_the_welsh_war_machine_desc:0 "The Dragon’s fire burns hottest in the forge of war. The nation will be reforged — its people hardened, its industries awakened, its spirit unbreakable. Fields will yield steel, songs will echo like drums of thunder, and the roar of engines will be the voice of a reborn Cymru. A single purpose now drives us: victory."
  
  # Monarchist Path
  WAL_return_of_the_true_king:0 "The Return of the True King"
- WAL_return_of_the_true_king_desc:0 "A descendant of Owain Glyndŵr shall restore the Welsh monarchy!"
+ WAL_return_of_the_true_king_desc:0 "The bards once sang of a king who would return when Wales was free and the land called for its protector once more. That time has come. From hidden lineage and ancient prophecy, a descendant of Owain Glyndŵr steps forth to reclaim the throne. His coronation will not merely crown a man, but awaken the spirit of the nation — the Dragon’s heir returned to guide Cymru into a new golden age."
  
  WAL_court_of_cymru:0 "The Court of Cymru"
- WAL_court_of_cymru_desc:0 "A royal court befitting the ancient glory of Wales shall be established."
+ WAL_court_of_cymru_desc:0 "The return of the crown demands a court worthy of legend. Within the halls of marble and oak, nobles, poets, warriors, and scholars will gather once more beneath the Dragon Banner. This court shall not merely rule, but inspire — a living symbol of Welsh unity and destiny. From its throne, decrees will echo like verses of prophecy, binding past and future in royal splendour. Cymru shall once again be ruled in majesty."
  
  WAL_new_arthurian_age:0 "A New Arthurian Age"
- WAL_new_arthurian_age_desc:0 "Welsh culture and mythology shall inspire a new golden age."
+ WAL_new_arthurian_age_desc:0 "From Camelot’s echoes to the halls of Cardiff, the legends of old live once more. The tales of Arthur, Merlin, and the noble knights will no longer belong to story alone, but to the spirit of a people reborn. Guided by honour and destiny, the king’s court shall revive the virtues of the old age — courage, loyalty, and justice — and carry them into a new golden dawn for Cymru."
  
  WAL_the_celtic_crown:0 "The Celtic Crown"
- WAL_the_celtic_crown_desc:0 "Wales, Scotland, and Ireland should be united under one Celtic monarchy."
+ WAL_the_celtic_crown_desc:0 "The old prophecies spoke of a king who would unite the Celtic peoples beneath one banner, restoring the harmony that once bound our isles. That time has come. From the highlands of Alba to the green shores of Éire, the ancient crowns shall be gathered into one — the Celtic Crown of Cymru. Under the Dragon Throne, our kindred nations will rise together, guided by shared heritage, faith, and destiny. The bards will call this the age when the Celts became one people once more."
  
  WAL_a_kings_army:0 "A King's Army"
- WAL_a_kings_army_desc:0 "The Royal Welsh Army shall be the finest fighting force in the British Isles."
+ WAL_a_kings_army_desc:0 "From the mists of legend to the fields of battle, the King’s Army shall embody the spirit of Cymru itself — fierce as the Dragon, steadfast as the mountains. Each soldier will swear their oath not merely to a flag, but to the sacred destiny of a restored realm. The bards will sing of their courage, and the enemies of the crown will tremble at their approach. The age of noble warriors has returned."
  
  WAL_royal_treaty_france:0 "A Royal Treaty with France"
- WAL_royal_treaty_france_desc:0 "French support will aid our ambitions."
+ WAL_royal_treaty_france_desc:0 "To secure our crown, we must find allies among Europe’s monarchies. France, long a bastion of royal tradition, recognises our legitimacy and the promise of a stable Celtic realm. Through this treaty, our two kingdoms will cooperate in trade, defence, and diplomacy — bound not only by shared interest, but by the enduring fellowship of kings."
  
  WAL_restoring_marcher_borders:0 "Restoring the Marcher Borders"
- WAL_restoring_marcher_borders_desc:0 "Historical Welsh territories in England must be reclaimed!"
+ WAL_restoring_marcher_borders_desc:0 "History may have erased the borders of old Wales, but the crown remembers. The Marcher lands, taken in the age of conquest, are bound to Cymru by heritage and divine right. Under royal command, we will move to restore our ancient frontier — a border defined not by empire, but by destiny. The age of rightful rule returns to the valleys and hills that once bore the Dragon’s mark."
  
  WAL_britannias_true_heir:0 "Britannia's True Heir"
- WAL_britannias_true_heir_desc:0 "The true heir to the British throne sits in Cymru, not London!"
+ WAL_britannias_true_heir_desc:0 "When the kings of old fell and the land was divided, prophecy foretold that a true heir would rise from the west — crowned beneath the Dragon’s wings to restore unity to the Isles. That prophecy has come to pass. The false crowns of London will fade, and the rightful sovereign of Britannia shall reign from Cymru, where honour, blood, and destiny converge."
 
  # Rejoin the union path
   WAL_negotiate_reunion:0 "Negotiate Reunion with Britain"
@@ -166,7 +166,151 @@
  WAL_united_we_stand:0 "United We Stand"
  WAL_united_we_stand_desc:0 "Wales and Britain stand together once more. Though we lack full independence, we are protected, prosperous, and part of the greatest empire on Earth."
  
- # UK Reunion Ideas
+
+ 
+ # ================================
+ # NATIONAL SPIRITS/IDEAS
+ # ================================
+ 
+ # Starting Ideas
+ WAL_independent_spirit:0 "Independent Spirit"
+ WAL_independent_spirit_desc:0 "enturies of hardship have tempered the Welsh into a people who will never bow again."
+ 
+ WAL_coal_mining_tradition:0 "Coal Mining Tradition"
+ WAL_coal_mining_tradition_desc:0 "Coal and courage — the twin pillars upon which Wales built its industry and its soul."
+ 
+ # Democratic Ideas
+ WAL_a_democratic_mandate:0 "Democratic Mandate"
+ WAL_a_democratic_mandate_desc:0 "The voice of the people is the light that guides our nation through uncertain times."
+ 
+ WAL_welsh_national_assembly:0 "Welsh National Assembly"
+ WAL_welsh_national_assembly_desc:0 "Democracy finds its home in Cardiff, where every citizen’s voice is heard."
+ 
+ WAL_trade_union_pact:0 "Trade Union Pact"
+ WAL_trade_union_pact_desc:0 "Workers and government stand united — together we build a fairer Wales."
+ 
+ WAL_british_investment_program:0 "British Investment Program"
+ WAL_british_investment_program_desc:0 "British capital is helping to modernize Welsh industry."
+ 
+ WAL_atlantic_trade_dominance:0 "Atlantic Trade Dominance"
+ WAL_atlantic_trade_dominance_desc:0 "Wales has established itself as a major Atlantic trading power."
+ 
+ WAL_democratic_scientific_advancement:0 "Democratic Scientific Advancement"
+ WAL_democratic_scientific_advancement_desc:0 "Welsh universities and research institutions are driving innovation."
+ 
+ WAL_homegrown_industry:0 "Homegrown Industry"
+ WAL_homegrown_industry_desc:0 "Welsh industry is self-sufficient and prosperous."
+ 
+ WAL_defend_the_west:0 "Defend the West"
+ WAL_defend_the_west_desc:0 "Our coastal defenses are ready to repel any invasion."
+ 
+ # Communist Ideas
+ WAL_red_dragon_rising:0 "Red Dragon Rising"
+ WAL_red_dragon_rising_desc:0 "The socialist revolution is reshaping Wales into a nation of equality and purpose."
+ 
+ WAL_workers_councils:0 "Workers' Councils"
+ WAL_workers_councils_desc:0 "Elected workers now manage industry directly, ensuring production serves the people."
+ 
+ WAL_welsh_soviet_pact:0 "Welsh-Soviet Pact"
+ WAL_welsh_soviet_pact_desc:0 "The Soviet Union has pledged material and ideological support to our revolution."
+ 
+ WAL_miners_revolution:0 "The Miners' Revolution"
+ WAL_miners_revolution_desc:0 "Wales’s miners stand at the forefront of socialism, their labour driving the new state forward."
+ 
+ WAL_total_state_control:0 "Total State Control"
+ WAL_total_state_control_desc:0 "All major industries and resources are now centralized under the authority of the people’s state."
+ 
+ WAL_export_the_revolution:0 "Export the Revolution"
+ WAL_export_the_revolution_desc:0 "Our revolution cannot survive in isolation — we must encourage socialism beyond our borders."
+ 
+ WAL_welsh_internationale:0 "Welsh Internationale"
+ WAL_welsh_internationale_desc:0 "Wales has taken the lead in organizing and coordinating a new international workers’ movement."
+ 
+ WAL_a_peoples_army:0 "A People's Army"
+ WAL_a_peoples_army_desc:0 "The army has been reorganized along class lines, ensuring loyalty to the revolution above all."
+ 
+ WAL_soviet_industrial_advisors:0 "Soviet Industrial Advisors"
+ WAL_soviet_industrial_advisors_desc:0 "Experienced Soviet planners and engineers are helping to expand and modernize Welsh industry."
+ 
+ WAL_peoples_militia:0 "People's Militia"
+ WAL_peoples_militia_desc:0 "Volunteer militias of workers and farmers stand ready to defend the revolution from any threat."
+ 
+ WAL_socialist_science_program:0 "Socialist Science Program"
+ WAL_socialist_science_program_desc:0 "Scientific progress is now directed toward improving the lives of workers and strengthening the state."
+ 
+ # Fascist Ideas
+ WAL_rise_of_the_dragon:0 "Rise of the Dragon"
+ WAL_rise_of_the_dragon_desc:0 "Strong leadership has united Wales under a vision of national strength and renewal."
+ 
+ WAL_purging_british_influence:0 "Purging British Influence"
+ WAL_purging_british_influence_desc:0 "British-aligned officials have been dismissed, ensuring full Welsh control over government and industry."
+ 
+ WAL_cymru_for_the_cymry:0 "Cymru for the Cymry"
+ WAL_cymru_for_the_cymry_desc:0 "National policy now prioritizes the prosperity and security of the Welsh people above all else."
+ 
+ WAL_revive_the_druidic_order:0 "The Druidic Order"
+ WAL_revive_the_druidic_order_desc:0 "Revived ancient traditions serve as powerful symbols of national identity and unity."
+ 
+ WAL_march_on_england:0 "March on England"
+ WAL_march_on_england_desc:0 "We are prepared to reclaim our rightful lands from the English."
+ 
+ WAL_pact_with_berlin:0 "Pact with Berlin"
+ WAL_pact_with_berlin_desc:0 "Diplomatic and military cooperation with Germany secures our place in the new European order."
+ 
+ WAL_dominance_of_celtic_isles:0 "Dominance of the Celtic Isles"
+ WAL_dominance_of_celtic_isles_desc:0 "Wales asserts its leadership over the Celtic nations, guiding them under one banner"
+ 
+ WAL_the_welsh_war_machine:0 "The Welsh War Machine"
+ WAL_the_welsh_war_machine_desc:0 "Industry, labour, and resources have been reorganized for the singular goal of total war."
+ 
+ WAL_total_militarization:0 "Total Militarization"
+ WAL_total_militarization_desc:0 "The nation’s institutions are fully committed to military readiness and mobilization."
+ 
+ WAL_celtic_imperial_spirit:0 "Celtic Imperial Spirit"
+ WAL_celtic_imperial_spirit_desc:0 "A shared sense of destiny unites the Celtic peoples under Welsh leadership and ambition."
+ 
+ WAL_english_conquest_spirit:0 "English Conquest"
+ WAL_english_conquest_spirit_desc:0 "Our forces are driven by a common purpose — the final victory over England."
+ 
+ # Monarchist Ideas
+ WAL_return_of_the_true_king:0 "Return of the True King"
+ WAL_return_of_the_true_king_desc:0 "A descendant of Owain Glyndŵr has been crowned, restoring the royal house of Wales."
+ 
+ WAL_court_of_cymru:0 "Court of Cymru"
+ WAL_court_of_cymru_desc:0 "A royal court now governs from Cardiff, symbolizing the return of Welsh sovereignty."
+ 
+ WAL_new_arthurian_age:0 "A New Arthurian Age"
+ WAL_new_arthurian_age_desc:0 "Cultural renewal flourishes under royal patronage, reviving art, tradition, and national pride.."
+ 
+ WAL_the_celtic_crown:0 "The Celtic Crown"
+ WAL_the_celtic_crown_desc:0 "Wales seeks to unite the Celtic nations under a single and stable monarchy."
+ 
+ WAL_a_kings_army:0 "A King's Army"
+ WAL_a_kings_army_desc:0 "The Royal Welsh Army stands as a disciplined and loyal force, defending crown and country."
+ 
+ WAL_royal_treaty_france:0 "Royal Treaty with France"
+ WAL_royal_treaty_france_desc:0 "Diplomatic cooperation with France strengthens our monarchy’s legitimacy and international standing."
+ 
+ WAL_restoring_marcher_borders:0 "Restoring the Marcher Borders"
+ WAL_restoring_marcher_borders_desc:0 "Historical Welsh territories along the old borderlands have been reclaimed under the crown."
+ 
+ WAL_britannias_true_heir:0 "Britannia's True Heir"
+ WAL_britannias_true_heir_desc:0 "The Welsh monarchy asserts its rightful claim as the legitimate successor to the British throne."
+ 
+ WAL_celtic_union_spirit:0 "Celtic Union"
+ WAL_celtic_union_spirit_desc:0 "The Celtic nations stand together under one royal banner, bound by heritage and shared destiny."
+ 
+ WAL_rightful_heir_of_britain:0 "Rightful Heir of Britain"
+ WAL_rightful_heir_of_britain_desc:0 "Our claim to lead and unify Britain has been recognized as a matter of royal legitimacy."
+ 
+ # General Ideas
+ WAL_welsh_culture:0 "Welsh Cultural Pride"
+ WAL_welsh_culture_desc:0 "The Welsh language and identity are thriving as symbols of national strength and unity."
+ 
+ WAL_communist_agitation:0 "Communist Agitation"
+ WAL_communist_agitation_desc:0 "Communist agents are stirring up unrest among the population."
+
+  # UK Reunion Ideas
  WAL_economic_integration:0 "Economic Integration"
  WAL_economic_integration_desc:0 "Welsh economy is integrated with British imperial trade networks."
  
@@ -189,148 +333,6 @@
  WAL_united_we_stand_desc:0 "Wales and Britain stand united against all threats."
  
  # ================================
- # NATIONAL SPIRITS/IDEAS
- # ================================
- 
- # Starting Ideas
- WAL_independent_spirit:0 "Independent Spirit"
- WAL_independent_spirit_desc:0 "The Welsh people have fought long and hard for their independence and will defend it fiercely."
- 
- WAL_coal_mining_tradition:0 "Coal Mining Tradition"
- WAL_coal_mining_tradition_desc:0 "Wales has a long history of coal mining and industrial production."
- 
- # Democratic Ideas
- WAL_a_democratic_mandate:0 "Democratic Mandate"
- WAL_a_democratic_mandate_desc:0 "The Welsh people have chosen democracy as their path forward."
- 
- WAL_welsh_national_assembly:0 "Welsh National Assembly"
- WAL_welsh_national_assembly_desc:0 "A functioning democratic parliament governs Wales."
- 
- WAL_trade_union_pact:0 "Trade Union Pact"
- WAL_trade_union_pact_desc:0 "Strong unions protect Welsh workers' rights."
- 
- WAL_british_investment_program:0 "British Investment Program"
- WAL_british_investment_program_desc:0 "British capital is helping to modernize Welsh industry."
- 
- WAL_atlantic_trade_dominance:0 "Atlantic Trade Dominance"
- WAL_atlantic_trade_dominance_desc:0 "Wales has established itself as a major Atlantic trading power."
- 
- WAL_democratic_scientific_advancement:0 "Democratic Scientific Advancement"
- WAL_democratic_scientific_advancement_desc:0 "Welsh universities and research institutions are driving innovation."
- 
- WAL_homegrown_industry:0 "Homegrown Industry"
- WAL_homegrown_industry_desc:0 "Welsh industry is self-sufficient and prosperous."
- 
- WAL_defend_the_west:0 "Defend the West"
- WAL_defend_the_west_desc:0 "Our coastal defenses are ready to repel any invasion."
- 
- # Communist Ideas
- WAL_red_dragon_rising:0 "Red Dragon Rising"
- WAL_red_dragon_rising_desc:0 "The socialist revolution is transforming Welsh society."
- 
- WAL_workers_councils:0 "Workers' Councils"
- WAL_workers_councils_desc:0 "Democratic workers' councils now control all major industries."
- 
- WAL_welsh_soviet_pact:0 "Welsh-Soviet Pact"
- WAL_welsh_soviet_pact_desc:0 "The Soviet Union has pledged its support to the Welsh revolution."
- 
- WAL_miners_revolution:0 "The Miners' Revolution"
- WAL_miners_revolution_desc:0 "Welsh coal miners are the backbone of our socialist state."
- 
- WAL_total_state_control:0 "Total State Control"
- WAL_total_state_control_desc:0 "All means of production are now firmly under state control."
- 
- WAL_export_the_revolution:0 "Export the Revolution"
- WAL_export_the_revolution_desc:0 "We are actively spreading socialist revolution throughout the British Isles."
- 
- WAL_welsh_internationale:0 "Welsh Internationale"
- WAL_welsh_internationale_desc:0 "Wales leads an international communist movement."
- 
- WAL_a_peoples_army:0 "A People's Army"
- WAL_a_peoples_army_desc:0 "The entire working class is mobilized in defense of socialism."
- 
- WAL_soviet_industrial_advisors:0 "Soviet Industrial Advisors"
- WAL_soviet_industrial_advisors_desc:0 "Soviet experts are helping to modernize Welsh industry."
- 
- WAL_peoples_militia:0 "People's Militia"
- WAL_peoples_militia_desc:0 "Armed workers' militias stand ready to defend the revolution."
- 
- WAL_socialist_science_program:0 "Socialist Science Program"
- WAL_socialist_science_program_desc:0 "Scientific research is conducted for the benefit of all workers."
- 
- # Fascist Ideas
- WAL_rise_of_the_dragon:0 "Rise of the Dragon"
- WAL_rise_of_the_dragon_desc:0 "A new era of Welsh greatness has begun under strong leadership."
- 
- WAL_purging_british_influence:0 "Purging British Influence"
- WAL_purging_british_influence_desc:0 "All British sympathizers have been removed from positions of power."
- 
- WAL_cymru_for_the_cymry:0 "Cymru for the Cymry"
- WAL_cymru_for_the_cymry_desc:0 "Wales belongs to the Welsh people alone!"
- 
- WAL_revive_the_druidic_order:0 "The Druidic Order"
- WAL_revive_the_druidic_order_desc:0 "Ancient traditions have been revived to strengthen national unity."
- 
- WAL_march_on_england:0 "March on England"
- WAL_march_on_england_desc:0 "We are prepared to reclaim our rightful lands from the English."
- 
- WAL_pact_with_berlin:0 "Pact with Berlin"
- WAL_pact_with_berlin_desc:0 "Germany has become our ally in reshaping Europe."
- 
- WAL_dominance_of_celtic_isles:0 "Dominance of the Celtic Isles"
- WAL_dominance_of_celtic_isles_desc:0 "Wales shall be the hegemon of all Celtic peoples."
- 
- WAL_the_welsh_war_machine:0 "The Welsh War Machine"
- WAL_the_welsh_war_machine_desc:0 "Our entire economy is geared toward total war."
- 
- WAL_total_militarization:0 "Total Militarization"
- WAL_total_militarization_desc:0 "Every aspect of Welsh society has been militarized."
- 
- WAL_celtic_imperial_spirit:0 "Celtic Imperial Spirit"
- WAL_celtic_imperial_spirit_desc:0 "The Celtic Empire stands united and strong!"
- 
- WAL_english_conquest_spirit:0 "English Conquest"
- WAL_english_conquest_spirit_desc:0 "Our troops are motivated by the conquest of England."
- 
- # Monarchist Ideas
- WAL_return_of_the_true_king:0 "Return of the True King"
- WAL_return_of_the_true_king_desc:0 "A descendant of Owain Glyndŵr now rules Wales."
- 
- WAL_court_of_cymru:0 "Court of Cymru"
- WAL_court_of_cymru_desc:0 "A royal court has been established befitting our ancient kingdom."
- 
- WAL_new_arthurian_age:0 "A New Arthurian Age"
- WAL_new_arthurian_age_desc:0 "Welsh culture flourishes under royal patronage."
- 
- WAL_the_celtic_crown:0 "The Celtic Crown"
- WAL_the_celtic_crown_desc:0 "We seek to unite all Celtic peoples under one crown."
- 
- WAL_a_kings_army:0 "A King's Army"
- WAL_a_kings_army_desc:0 "The Royal Welsh Army is the pride of our kingdom."
- 
- WAL_royal_treaty_france:0 "Royal Treaty with France"
- WAL_royal_treaty_france_desc:0 "French support strengthens our position."
- 
- WAL_restoring_marcher_borders:0 "Restoring the Marcher Borders"
- WAL_restoring_marcher_borders_desc:0 "We have laid claim to historical Welsh territories."
- 
- WAL_britannias_true_heir:0 "Britannia's True Heir"
- WAL_britannias_true_heir_desc:0 "We are the rightful rulers of all Britain!"
- 
- WAL_celtic_union_spirit:0 "Celtic Union"
- WAL_celtic_union_spirit_desc:0 "The Celtic peoples are united under one banner!"
- 
- WAL_rightful_heir_of_britain:0 "Rightful Heir of Britain"
- WAL_rightful_heir_of_britain_desc:0 "Our claim to the British throne is undeniable!"
- 
- # General Ideas
- WAL_welsh_culture:0 "Welsh Cultural Pride"
- WAL_welsh_culture_desc:0 "The Welsh language and culture are experiencing a renaissance."
- 
- WAL_communist_agitation:0 "Communist Agitation"
- WAL_communist_agitation_desc:0 "Communist agents are stirring up unrest among the population."
- 
- # ================================
  # DECISIONS
  # ================================
  
@@ -343,71 +345,71 @@
  
  # Democratic Decisions
  WAL_seek_uk_investment:0 "Seek UK Investment"
- WAL_seek_uk_investment_desc:0 "British capital can help modernize our industry, though at the cost of some independence."
+ WAL_seek_uk_investment_desc:0 "British investors are willing to pour capital into Welsh industry, helping modernize our factories and infrastructure. However, accepting their support may come with political strings attached and a loss of economic independence."
  
  WAL_atlantic_trade_network:0 "Establish Atlantic Trade Network"
- WAL_atlantic_trade_network_desc:0 "Build trade relationships with North America to boost our economy."
+ WAL_atlantic_trade_network_desc:0 "By expanding trade routes across the Atlantic, Wales can strengthen economic ties with the United States and Canada. Increased commerce will bring prosperity, stability, and a stronger place for Cymru among democratic nations."
  
  WAL_fortify_the_homeland:0 "Fortify the Homeland"
- WAL_fortify_the_homeland_desc:0 "Construct extensive fortifications to protect Wales from invasion."
+ WAL_fortify_the_homeland_desc:0 "Wales must be ready to defend itself from any foreign threat. Through coordinated construction of coastal defences and mountain fortifications, the government aims to secure the safety of our people and preserve our freedom."
  
  WAL_democratic_research_initiative:0 "Democratic Research Initiative"
- WAL_democratic_research_initiative_desc:0 "Invest heavily in universities and research institutions."
+ WAL_democratic_research_initiative_desc:0 "Investment in higher education and scientific institutions will ensure that Wales remains a beacon of progress and innovation. A well-educated populace is the foundation of a strong democracy and a modern state."
  
  # Communist Decisions
  WAL_total_nationalization:0 "Total Nationalization"
- WAL_total_nationalization_desc:0 "Bring all private industry under complete state control."
+ WAL_total_nationalization_desc:0 "The state will assume direct control over all private industry, ensuring that every factory, mine, and workshop serves the needs of the people. This sweeping reform will eliminate private profit in favour of collective prosperity."
  
  WAL_soviet_military_cooperation:0 "Soviet Military Cooperation"
- WAL_soviet_military_cooperation_desc:0 "Request Soviet military aid and expertise."
+ WAL_soviet_military_cooperation_desc:0 "By deepening military cooperation with the Soviet Union, we can gain access to experienced advisors, modern equipment, and proven doctrines. Their assistance will greatly enhance the strength and organization of our armed forces."
  
  WAL_export_revolution_britain:0 "Export Revolution to Britain"
- WAL_export_revolution_britain_desc:0 "Spread communist revolution throughout Britain itself!"
+ WAL_export_revolution_britain_desc:0 "The revolution cannot remain isolated within our borders. We must support sympathetic movements across Britain and encourage the workers there to rise up and overthrow their oppressors."
  
  WAL_peoples_army_mobilization:0 "People's Army Mobilization"
- WAL_peoples_army_mobilization_desc:0 "Mass mobilization of the working class for defense."
+ WAL_peoples_army_mobilization_desc:0 "The defense of the socialist state is the duty of every citizen. The government will mobilize the working class into a unified people’s army, ready to defend the revolution from any internal or external threat."
  
  WAL_communist_research_collective:0 "Communist Research Collective"
- WAL_communist_research_collective_desc:0 "Establish collective research programs for technological advancement."
+ WAL_communist_research_collective_desc:0 "Scientists and engineers will work together in state-run collectives dedicated to advancing technology for the common good. By pooling knowledge and eliminating competition, we will accelerate progress for all workers."
  
  # Fascist Decisions
  WAL_total_war_economy:0 "Total War Economy"
- WAL_total_war_economy_desc:0 "Convert the entire economy to support the war effort."
+ WAL_total_war_economy_desc:0 "Every sector of the economy will be redirected toward the war effort. Civilian production will be curtailed, and all labour and resources will serve the needs of the military until final victory is achieved."
  
  WAL_german_military_alliance:0 "German Military Alliance"
- WAL_german_military_alliance_desc:0 "Secure German military equipment and support."
+ WAL_german_military_alliance_desc:0 "Through closer cooperation with Germany, we can gain access to advanced weaponry, training, and industrial assistance. This partnership will strengthen our military and secure our position within the new European order."
  
  WAL_celtic_empire_formation:0 "Form the Celtic Empire"
- WAL_celtic_empire_formation_desc:0 "Unite the Celtic peoples under Welsh leadership!"
+ WAL_celtic_empire_formation_desc:0 "The time has come to unite the Celtic nations under Welsh leadership. Through political consolidation and military strength, we will forge a new empire that restores the pride and power of the Celtic peoples."
  
  WAL_druidic_legions:0 "Raise Druidic Legions"
- WAL_druidic_legions_desc:0 "Form elite military units inspired by ancient traditions."
+ WAL_druidic_legions_desc:0 "Elite military formations will be created, combining modern tactics with symbols drawn from Wales’s ancient heritage. These legions will serve as both the sword and the spirit of the nation."
  
  WAL_conquest_of_england:0 "Conquest of England"
- WAL_conquest_of_england_desc:0 "Rally the nation for the invasion of England!"
+ WAL_conquest_of_england_desc:0 "National resources will be focused on a campaign to bring England under Welsh control. This operation will solidify our dominance over the Isles and secure our rightful place in history."
  
  # Monarchist Decisions
  WAL_form_celtic_union:0 "Form the Celtic Union"
- WAL_form_celtic_union_desc:0 "Unite Wales, Scotland, and Ireland under one royal crown."
+ WAL_form_celtic_union_desc:0 "Through diplomacy and shared heritage, the crown will unite Wales, Scotland, and Ireland under one monarchy. This union will secure lasting stability and restore the dignity of the Celtic nations."
  
  WAL_french_technological_exchange:0 "French Technological Exchange"
- WAL_french_technological_exchange_desc:0 "Exchange technology and expertise with France."
+ WAL_french_technological_exchange_desc:0 "France has agreed to share its technological expertise and industrial knowledge. This exchange will strengthen both nations and enhance our ability to modernize the kingdom’s armed forces and economy."
  
  WAL_royal_army_expansion:0 "Royal Army Expansion"
- WAL_royal_army_expansion_desc:0 "Expand the Royal Welsh Guard."
+ WAL_royal_army_expansion_desc:0 "The Royal Welsh Guard will be expanded into a modern, professional fighting force capable of defending the crown and the realm. Recruitment and training programs will be intensified across the kingdom."
  
  WAL_claim_british_throne:0 "Claim the British Throne"
- WAL_claim_british_throne_desc:0 "Assert our rightful claim to rule all of Britain!"
+ WAL_claim_british_throne_desc:0 "With the monarchy restored and the nation united, it is time to assert our rightful claim to the British throne. Wales shall stand not only as a kingdom reborn, but as the legitimate ruler of the Isles."
  
  # Industrial Decisions
  WAL_mass_industrialization:0 "Mass Industrialization"
- WAL_mass_industrialization_desc:0 "Rapidly expand industrial capacity across all Welsh territories."
+ WAL_mass_industrialization_desc:0 "The government will direct massive investment into infrastructure and heavy industry. New factories, railways, and power plants will transform Wales into an industrial powerhouse."
  
  WAL_military_industrial_complex:0 "Military-Industrial Complex"
- WAL_military_industrial_complex_desc:0 "Build a vast network of armaments factories."
+ WAL_military_industrial_complex_desc:0 "To support our growing armed forces, we must build a permanent network of weapons factories and research facilities. This will ensure the nation’s independence and preparedness for any conflict."
  
  WAL_coal_empire:0 "Coal Empire"
- WAL_coal_empire_desc:0 "Exploit Wales's rich mineral resources to the fullest."
+ WAL_coal_empire_desc:0 "Wales’s vast coal reserves will fuel both industry and prosperity. By expanding extraction and refining operations, we will power our economy and strengthen our position as a key industrial nation."
  
  # ================================
  # CHARACTERS
@@ -424,30 +426,30 @@
  # ================================
  
  wales_events.1.t:0 "Communist Agitation in Scotland"
- wales_events.1.d:0 "Welsh communist agents have been spreading revolutionary propaganda throughout Scotland."
- wales_events.1.a:0 "The revolution spreads!"
+ wales_events.1.d:0 "Welsh communist agents have been active across Scotland, distributing pamphlets, organizing strikes, and stirring revolutionary sentiment among the working class. Reports suggest their message is gaining traction in several major cities."
+ wales_events.1.a:0 "The revolution spreads north!"
  
  wales_events.2.t:0 "Communist Agitation in Ireland"
- wales_events.2.d:0 "Welsh communist agents have been spreading revolutionary propaganda throughout Ireland."
- wales_events.2.a:0 "The revolution spreads!"
+ wales_events.2.d:0 "Revolutionary organizers from Wales have crossed the Irish Sea, working to inspire the Irish workers to rise against capitalism and imperialism. Local authorities are struggling to contain the growing unrest."
+ wales_events.2.a:0 "The revolution spreads across the Isles!"
  
  wales_events.3.t:0 "Welsh Diplomatic Approach"
- wales_events.3.d:0 "The Kingdom of Wales seeks closer ties with Scotland."
+ wales_events.3.d:0 "Envoys from the Kingdom of Wales have arrived in Edinburgh, bearing gifts and proposals for mutual cooperation. They speak of shared heritage, royal friendship, and a vision of a united Celtic realm under peace and prosperity."
  wales_events.3.a:0 "We welcome Welsh friendship."
- wales_events.3.b:0 "We reject this overture."
+ wales_events.3.b:0 "We reject their overtures."
  
  wales_events.4.t:0 "Welsh Diplomatic Approach"
- wales_events.4.d:0 "The Kingdom of Wales seeks closer ties with Ireland."
+ wales_events.4.d:0 "Welsh diplomats have opened discussions with the Irish government, proposing closer political and economic ties between the two nations. The Welsh crown presents this as the first step toward a strong Celtic alliance."
  wales_events.4.a:0 "We welcome Welsh friendship."
  wales_events.4.b:0 "We reject this overture."
  
  wales_events.5.t:0 "The Coronation"
- wales_events.5.d:0 "In a grand ceremony, the new King of Wales has been crowned. Long may he reign!"
+ wales_events.5.d:0 "The streets of Cardiff are alive with celebration as the new monarch is crowned in a ceremony rich with tradition and splendour. Church bells ring, soldiers salute, and the people rejoice — Wales has its king once more."
  wales_events.5.a:0 "Hail to the King!"
  
  wales_events.10.t:0 "Communist Revolution in Britain"
- wales_events.10.d:0 "Welsh agitators have succeeded in sparking a communist revolution in Britain!"
- wales_events.10.a:0 "The revolution succeeds!"
+ wales_events.10.d:0 "The spark ignited by Welsh agitators has erupted into open revolt. Workers in Britain have taken up arms, declaring their intent to overthrow the old order. Red flags now fly over factories and government buildings alike."
+ wales_events.10.a:0 "The revolution triumphs!"
 
  # ================================
  # VICTORY POINTS
