@@ -35,15 +35,15 @@
  WAL_focus_tree:0 "Welsh National Focus"
  
  # Common/Starting Focuses
- WAL_the_dragon_rises:0 "The Dragon Rises"
- WAL_the_dragon_rises_desc:0 "Wales has achieved independence and now must chart its own course. The Red Dragon flies proudly once more."
+ WAL_the_dragon_rises:0 "A New Dawn for Cymru"
+ WAL_the_dragon_rises_desc:0 "After centuries of struggle, the proud country of Wales has achieved independence and now must chart its own course. The Red Dragon flies proudly once more."
  
  WAL_choose_our_path:0 "Choose Our Path"
  WAL_choose_our_path_desc:0 "Wales stands at a crossroads. We must decide the future of our nation."
  
  # Democratic Path
  WAL_a_democratic_mandate:0 "A Democratic Mandate"
- WAL_a_democratic_mandate_desc:0 "We shall establish Wales as a beacon of democracy in the British Isles."
+ WAL_a_democratic_mandate_desc:0 "England has shown they cannot handle the pressure of keeping the light of democracy shining. We shall establish Wales as a beacon of democracy in the British Isles and europe."
  
  WAL_welsh_national_assembly:0 "Welsh National Assembly"
  WAL_welsh_national_assembly_desc:0 "A proper parliament will give voice to all Welsh citizens and strengthen our democratic institutions."
