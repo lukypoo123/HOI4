@@ -233,6 +233,7 @@ characters = {
         name = "Royal Courtier"
         portraits = {
             civilian = {
+                large = "GFX_idea_generic_political_advisor_europe_7"
                 small = "GFX_idea_generic_political_advisor_europe_7"
             }
         }
@@ -242,12 +243,10 @@ characters = {
             allowed = {
                 original_tag = WAL
             }
-            available = {
-                has_government = neutrality
-            }
             traits = {
-                smooth_talking_charmer
+                backroom_backstabber
             }
+            cost = 150
         }
     }
     

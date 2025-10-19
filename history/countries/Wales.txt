@@ -64,6 +64,7 @@ recruit_character = WAL_captain_of_industry
 recruit_character = WAL_war_industrialist
 recruit_character = WAL_silent_workhorse
 recruit_character = WAL_smooth_talking_charmer
+recruit_character = WAL_royalist_courtier
 
 # Army Chiefs
 recruit_character = WAL_army_chief_offensive
