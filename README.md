@@ -129,6 +129,7 @@ HOI4-THE-DRAGON-RISES/
    - Download the mod files
    - Extract to: `Documents/Paradox Interactive/Hearts of Iron IV/mod/`
    - Enable in HOI4 launcher
+3. IMPORTANT! - if installing from the github repo, move the .mod file out of the main folder and place in the recersive (hoi4/mod) folder.
 
 ## Known Issues
 
